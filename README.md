@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Supermarket Pricing
 
 This kata arose from some discussions we’ve been having at the DFW Practioners meetings. The problem domain is something seemingly simple: pricing goods at supermarkets.
@@ -18,3 +19,7 @@ This is an ideal shower-time kata, but be careful. Some of the problems are more
 
 Goal
 The goal of this kata is to practice a looser style of experimental modelling. Look for as many different ways of handling the issues as possible. Consider the various tradeoffs of each. What techniques are best for exploring these models? For recording them? How can you validate a model is reasonable?
+=======
+# ShoppingCartKATA
+a TDD KATA in JS
+>>>>>>> 80684d4d5b0d2e60196ea234e49aaa33cea91212
